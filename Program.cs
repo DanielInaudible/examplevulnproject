@@ -6,8 +6,8 @@ namespace VulnProjectDemo
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("=== Vulnerable Project Demo ===");
-            Console.WriteLine("Select a demo to run (1-5):");
+            Console.WriteLine("=== Vulnerable Project ===");
+            Console.WriteLine("Select (1-5):");
             Console.WriteLine("1 - Hardcoded Password");
             Console.WriteLine("2 - Path Traversal");
             Console.WriteLine("3 - Command Injection");
